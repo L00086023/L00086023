@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @L00086023
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+L00086023/L00086023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Hi I'm Tony Quinn. I'm a software development professional looking to get some experience in the development of Java, C#  or JavaScript projects, opensource or otherwise.
+I'm based in Ireland and can work on any projects fully remote from my own office/home.
+I  can be reached by email on: anthonyquinn75@outlook.com or my student email: L00086023@student.lyit.ie
